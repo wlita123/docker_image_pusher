@@ -4,3 +4,13 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+primero/migration:latest
+primeroims/migration:latest
+uniprimeroxacrdev.azurecr.io/primero/migration:latest
+uniprimeroxacrdev.azurecr.io/primeroims/migration:latest
+primero/application:latest
+primeroims/application:latest
+uniprimeroxacrdev.azurecr.io/primero/application:latest
+uniprimeroxacrdev.azurecr.io/primeroims/application:latest
+primero/nginx:latest
+primeroims/nginx:latest
